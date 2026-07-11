@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Review_Score__c</fullName>
+    <description>面接の結果と応募者に付ける採点結果</description>
+    <externalId>false</externalId>
+    <inlineHelpText>：1 から 10 で評価してください。</inlineHelpText>
+    <label>審査採点</label>
+    <precision>2</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>
